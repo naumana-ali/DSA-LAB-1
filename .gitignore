@@ -1,0 +1,4 @@
+# Ignore everything
+
+# Except Task1.cpp
+!Task1.cpp
